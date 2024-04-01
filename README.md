@@ -1,2 +1,2 @@
 # -Multi-focus-image-fusion
-多焦点图像融合
+基于传统算法的多焦点图像融合
